@@ -1,3 +1,5 @@
+//This is a program that outputs the ARGB (Alpha Red Green Blue) value of whatever the color sensor detects
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

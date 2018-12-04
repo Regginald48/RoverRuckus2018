@@ -1,3 +1,5 @@
+//This is a program to output the distance the distance sensor is from an object - outputs millimeters, inches, centimeters, and meters
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;

@@ -1,3 +1,5 @@
+//This is a program to sample **No sensor coded, just what it does based on what it senses**
+
 package org.firstinspires.ftc.teamcode;
 
 
